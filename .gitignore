@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+data/training_data.jsonl
+data/annotated_data.jsonl
