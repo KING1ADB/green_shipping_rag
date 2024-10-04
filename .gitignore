@@ -1,4 +1,6 @@
 __pycache__/
 *.pyc
-data/training_data.jsonl
-data/annotated_data.jsonl
+data/raw_dataset.jsonl
+data/annotated_dataset.jsonl
+data/preprocessed_dataset.jsonl
+data/validation_dataset.jsonl
